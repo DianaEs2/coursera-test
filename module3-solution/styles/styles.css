@@ -50,3 +50,12 @@ input[type="text"] {
     transform: rotate(360deg);
   }
 }
+.form-group {
+  float: left;
+}
+.error {
+  color: red;
+  font-weight: bold;
+  float: left;
+  margin-left: 10px;
+}
